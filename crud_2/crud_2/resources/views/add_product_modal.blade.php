@@ -19,8 +19,8 @@
           <input type="text" class="form-control" id="name" name="name" placeholder="Enter name">
         </div>
         <div class="form-group mt-2">
-            <label for="nameDes">Product Description</label>
-            <input type="text" class="form-control" id="nameDes" name="nameDes" placeholder="Enter Description">
+            <label for="description">Product Description</label>
+            <input type="text" class="form-control" id="description" name="description" placeholder="Enter Description">
           </div>
             <div class="form-group mt-2">
                 <label for="price">Product Price</label>
